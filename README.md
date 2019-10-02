@@ -1,7 +1,7 @@
 # deep_learning
 Coursework for the [Deep Learning Lecture](http://uvadlc.github.io/) of the Master Artificial Intelligence at the University of Amsterdam in 2018/19. The implementations are based on PyTorch. Assignment sheets can be found [here](https://github.com/uvadlc/uvadlc_practicals_2019). 
 
-Topics were amongs others:
+Topics were amongst others:
 
 Assignment 1:
 - Multilayer Perceptron
